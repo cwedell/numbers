@@ -1,5 +1,5 @@
 #! /bin/bash
-# username.sh
+# numbers.sh
 # Colton Wedell
 echo "Enter a positive integer: "
 read INTEGER
